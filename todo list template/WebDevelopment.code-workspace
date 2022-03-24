@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\WEB DEVELOPMENT\\Bozaz_469782"
+		},
+		{
+			"path": "..\\..\\Web Coding"
+		},
+		{
+			"path": "..\\..\\Bozaz_469782"
+		},
+		{
+			"path": "..\\..\\counter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "counter"
+	}
+}
